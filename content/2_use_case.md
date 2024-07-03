@@ -16,7 +16,7 @@ For a Web platform, an integrating
 service can make use of the following
 internal trust flows between the
 service, registered users and the
-platform:
+platform to automate integration:
 (i) 
 The service trusts the platform
 to have verified the user age
@@ -35,11 +35,11 @@ and user preference when retrieving
 data over the internal APIs.
 <!-- Our use case -->
 
-To translate the above trust flows
+To translate the above trust flows 
 to a decentralized network of data stores, 
-we specify the following trust requirements
-for the services, data stores and users in
-this network:
+we present the following trust requirements
+as necessary for services, data stores and 
+users to automate the integration of age data:
 (i) 
 The service can discover user age data 
 carrying sufficient and verifiable
@@ -53,7 +53,7 @@ depending on the context of an interaction.
 The service can trust a successful retrieval
 of data to provide sufficient information
 on how this data can be stored and used
-in a way that complies with user preference
+in compliance with user preference
 and legal regulation.
 
 Note that the assumption is made that the

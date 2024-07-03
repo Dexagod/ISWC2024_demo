@@ -29,7 +29,7 @@ verifications on top of these policies.
 
 Future iteration on this architecture is planned to include the following considerations:
 (i) Minimizing data requirements through selective disclosure
-and expanding the scope of its context information beyond integrity.
+and expanding the scope of its associated metadata beyond integrity.
 (ii) Formalizing requirement modeling and negotiations
 to include data context requirements such as integrity
 and usage requirements such as processing needs.
