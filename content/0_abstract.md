@@ -1,23 +1,26 @@
 ## Abstract
 <!-- Context      -->
-Recent reactionary incentives against
+<!-- todo: return to old abstract for contextualization? -->
+Recent reactionary initiatives against
 the platformization of the Web 
 [](cite:cites helmond_platformization_2015)
 focus on interoperable data sharing over
 decentralized data stores on the Web.
 <!-- Need         -->
-To mimic the success of Web platforms in 
-their ability to automate integration of
-large amounts of data, a translation is 
-required of trust flows internal to Web
-platforms into the network architecture
-of these decentralized data stores.
+Where initiatives have largely managed
+to translate the requirement for data storage
+and sharing, automated integration of 
+internal data has not been realized yet.
 <!-- Task -->
-<!-- contained within need -->
+This capability for automated integration
+of data relies on automating trust flows
+in the architecture of the decentralized
+network of data stores.
 <!-- Object       -->
-We present a minimal network architecture 
+In this demo, we present a prototype
+for such a minimal network architecture
 based on open Web standards that can
-model the necessary trust requirements
+model these trust flows
 based on a sample use case.
 <!-- Findings - todo: rewrite    -->
 The presented architecture succeeds in
@@ -33,7 +36,6 @@ a design that can scale and evolve.
 In future work we will iterate on the individual
 components of the architecture to improve upon 
 trust flows requirements to tackle future use cases.
-
 
 
 
