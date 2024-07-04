@@ -1,31 +1,39 @@
 ## Conclusion
 {:#conclusion}
 
-With this demo, we show a minimal working 
-architecture based on open Web specifications
-that enable the modeling of these required 
-trust flows in a network of decentralized
-data stores:
-(i) Combining the LDP storage model with
-the use of VCs to represent data and context
-provides the capabilities for storage and
-trusted data integration in the network. 
-<!-- this automated integration and trust in authenticity -->
-(ii) The use of UMA to separate decouple
-systems in the network enables the modeling
-of user and legal requirements using ODRL and DPV,
-and the ability to negotiate these requirements.
-<!-- this automates trust in enforcing requirements -->
-(iii) Instantiation the relevant access and usage 
-requirements of a data exchange into a specific 
-policy modeled using ODRL and DPV assigns responsibility.
-Through the storage of these policies, 
-the data provider can withdraw consent 
-for specific data exchanges, 
-while the receiving party can prove
-their compliance to the usage requirements,
-and auditing systems can automate certain 
-verifications on top of these policies.
+This paper and the accompanying demonstrator effort
+shows a minimal architecture decentralized networks of
+data stores that enables the required trust modeling
+defined by the guiding use case using open Web specifications:
+<!-- trust in data and context -->
+(i) 
+Combining RDF and VCs to model data
+and context as verifiable credentials
+with Solid for the storage and retrieval
+of resources over the Web
+provides the capabilities for  
+services in the network to automate
+the retrieval and integration of
+trusted data in the network.
+<!-- trust in enforcing policies -->
+(ii) 
+The use of ODRL and DPV to model
+user preferences and legal requirements
+in system policies with UMA to enable
+negotiation over policy requirements
+provides the capability to automate
+negotiation for data access while
+providing users with trust in the
+enforcement of user and legal requirements.
+<!-- trust in retrieved data -->
+(iii)
+Policy instantiation models the access 
+and usage requirements for data exchanges.
+This enables services in the network 
+to trust their compliance with user
+preferences and legal requirements 
+when processing data retrieved through
+automated interactions in the network.
 
 Future iteration on this architecture is planned to include the following considerations:
 (i) Minimizing data requirements through selective disclosure
