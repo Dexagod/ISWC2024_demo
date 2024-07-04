@@ -1,6 +1,5 @@
 ## Conclusion
 {:#conclusion}
-
 This paper and the accompanying demonstrator effort
 shows a minimal architecture decentralized networks of
 data stores that enables the required trust modeling
@@ -41,4 +40,4 @@ and expanding the scope of its associated metadata beyond integrity.
 (ii) Formalizing requirement modeling and negotiations
 to include data context requirements such as integrity
 and usage requirements such as processing needs.
-(iii) Formalizing a policy instantiation mechanism for ODRL and DPV.
+(iii) Formalizing policy instantiation mechanisms for ODRL and DPV.
