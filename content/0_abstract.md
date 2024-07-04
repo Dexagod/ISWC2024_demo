@@ -1,16 +1,18 @@
 ## Abstract
 <!-- Context      -->
 <!-- todo: return to old abstract for contextualization? -->
-Recent reactionary initiatives against
-the platformization of the Web 
+Recent traction in decentralization efforts
+against the platformization of the Web 
 [](cite:cites helmond_platformization_2015)
-focus on interoperable data sharing over
-decentralized data stores on the Web.
+takes the form of interoperable architectures
+for decentralized networks of data stores.
 <!-- Need         -->
-Where initiatives have largely managed
-to translate the requirement for data storage
-and sharing, automated integration of 
-internal data has not been realized yet.
+Where these efforts focus mainly on
+translating the storage and sharing 
+capabilities of Web platforms, 
+little research has been done to 
+their capability for automated 
+integration of internalized data.
 <!-- Task -->
 This capability for automated integration
 of data relies on automating trust flows

@@ -5,7 +5,7 @@
 In a 2009 Ted talk [](cite:cites berners-lee_tim_2009), sir Tim Berners Lee called
 for "Raw Data Now" as a driver for data innovation on the Web.
 <!-- Data sharing initiatives -->
-Recent initiatives such as European Data Spaces
+Decentralization initiatives such as European Data Spaces
 have adopted this approach, developing protocols
 that enable interoperable digital marketplaces
 on the Web [](cite:cites braud_road_2021). 

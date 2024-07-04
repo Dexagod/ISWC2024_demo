@@ -101,20 +101,19 @@ provide pathways to automating
 data sharing [](cite:cites fierens_data_2024).
 <!-- ODRL and DPV -->
 To tackle these requirement we support 
-the choice of the Open Digital Rights Language 
-(ODRL) [](cite:cites Iannella:18:OIM) 
+the choice of the Open Digital Rights 
+Language (ODRL) [](cite:cites Iannella:18:OIM) 
 and the Data Privacy Vocabulary (DPV) 
 [](cite:cites Esteves:24:DPV) to 
 represent user preferences and legal
 requirements for access to and usage of data.
 <!-- backing up the claim -->
-This follows the use of ODRL 
-in data spaces architecture
+This follows the use of extended ODRL 
+in IDS usage control architecture 
+[](cite:cites noauthor_416_2023)
+active research on alignment with GDPR
 <!-- todo: cite!!! -->
-active research on alignment with GDPR,
-<!-- todo: cite!!! -->
-and a formalization for evaluation engines.
-<!-- todo: cite!!!  -->
+and formalization for evaluation engines.
 To evaluate the policies in the network,
 we make use of the User Managed Access
 (UMA) [](cite:cites machulak_user-managed_2010)
