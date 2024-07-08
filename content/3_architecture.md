@@ -94,7 +94,7 @@ This follows the use of extended ODRL
 in IDS usage control architecture 
 [](cite:cites noauthor_416_2023),
 active research on alignment with GDPR
-[] (cite:cites pandit_enhancing_2024)
+[](cite:cites pandit_enhancing_2024)
 and formalization efforts for evaluation engines.
 <!--  -->
 To combine ODRL capable policy evaluation engines
